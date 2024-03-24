@@ -1118,7 +1118,9 @@ fi
 ```
 ## OUTPUT 
 
-![Screenshot from 2024-03-24 13-10-23](https://github.com/DHARINIPV/OS-Linux-commands-Shell-script/assets/119400845/5dfa9aaa-ddd2-44f0-866d-579e98658acc)
+![Screenshot from 2024-03-24 14-27-27](https://github.com/DHARINIPV/OS-Linux-commands-Shell-script/assets/119400845/c8df77a1-7f11-40c7-aba0-bb48474ed3c7)
+
+![Screenshot from 2024-03-24 14-27-43](https://github.com/DHARINIPV/OS-Linux-commands-Shell-script/assets/119400845/781bc603-9133-4a49-b200-045d9d74fff4)
 
 # RESULT:
 The Commands are executed successfully.
