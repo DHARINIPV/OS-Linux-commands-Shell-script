@@ -496,13 +496,17 @@ else
 echo "$val1 is less than $val2"
 fi
 ```
-##OUTPUT
+
+## OUTPUT
+
 ![Screenshot from 2024-03-24 09-55-07](https://github.com/DHARINIPV/OS-Linux-commands-Shell-script/assets/119400845/a42b3b5b-ac9c-42fd-8086-f2c823ba71a8)
 
 chmod 755 strcomp.sh
  
 ./strcomp.sh 
+
 ## OUTPUT
+
 ![Screenshot from 2024-03-24 02-50-32](https://github.com/DHARINIPV/OS-Linux-commands-Shell-script/assets/119400845/39ae40f1-4a27-4271-894b-f9c46cfef779)
 
 # check file ownership
@@ -579,7 +583,9 @@ fi
 ```
 
 ./ifnested.sh 
+
 ## OUTPUT
+
 ![Screenshot from 2024-03-24 10-39-51](https://github.com/DHARINIPV/OS-Linux-commands-Shell-script/assets/119400845/f5169305-52cb-4142-8753-8c7625cdbc37)
 
 ![Screenshot from 2024-03-24 10-39-10](https://github.com/DHARINIPV/OS-Linux-commands-Shell-script/assets/119400845/3d25f5f1-9574-4a20-8899-096136d6a859)
@@ -674,8 +680,11 @@ fi
 $ chmod 755 ifnested.sh
  
 $ ./ifnested.sh 
-##OUTPUT
+
+## OUTPUT
+
 ![Screenshot from 2024-03-24 10-39-51](https://github.com/DHARINIPV/OS-Linux-commands-Shell-script/assets/119400845/f5169305-52cb-4142-8753-8c7625cdbc37)
+
 ![Screenshot from 2024-03-24 10-38-27](https://github.com/DHARINIPV/OS-Linux-commands-Shell-script/assets/119400845/05c26e6f-0068-458d-bad5-55719be33d16)
 
 # looking for a possible value using elif
