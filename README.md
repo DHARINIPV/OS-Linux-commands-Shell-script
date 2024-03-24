@@ -441,7 +441,9 @@ chmod 777 scriptest.sh
 ./scriptest.sh 1 2 3
 
 ## OUTPUT
-![Screenshot from 2024-03-24 02-34-48](https://github.com/DHARINIPV/OS-Linux-commands-Shell-script/assets/119400845/89ae26df-6f28-4b9f-86fe-e88538a0c672)
+![Screenshot from 2024-03-24 14-10-30](https://github.com/DHARINIPV/OS-Linux-commands-Shell-script/assets/119400845/6f7e0d55-e283-497b-9ffc-9346ef1c7594)
+
+![Screenshot from 2024-03-24 14-10-11](https://github.com/DHARINIPV/OS-Linux-commands-Shell-script/assets/119400845/5d306f09-a162-45f5-9ee1-771b5972176c)
 
 ls file1
 ## OUTPUT
@@ -462,6 +464,7 @@ abcd
  
 echo $?
  ## OUTPUT
+ 
 ![Screenshot from 2024-03-24 02-36-01](https://github.com/DHARINIPV/OS-Linux-commands-Shell-script/assets/119400845/0043a1f1-db91-4fc3-b61e-841ab089880c)
 
  
