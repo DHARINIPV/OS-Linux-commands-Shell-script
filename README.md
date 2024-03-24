@@ -622,7 +622,9 @@ fi
 $ chmod 755 iftest.sh
  
 $ ./iftest.sh 
-##OUTPUT
+
+## OUTPUT
+
 ![Screenshot from 2024-03-24 10-37-08](https://github.com/DHARINIPV/OS-Linux-commands-Shell-script/assets/119400845/5a8edb24-6f06-45ad-8173-54d193955472)
 
 # check if a file
