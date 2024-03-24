@@ -530,7 +530,10 @@ fi
  ```
 ./psswdperm.sh
 ## OUTPUT
-![Screenshot from 2024-03-24 10-24-24](https://github.com/DHARINIPV/OS-Linux-commands-Shell-script/assets/119400845/9af9195b-8f04-44ac-9f21-31b6e027eb5b)
+
+![Screenshot from 2024-03-24 14-16-58](https://github.com/DHARINIPV/OS-Linux-commands-Shell-script/assets/119400845/5beba1df-fa57-4942-ab19-2564855f96d7)
+
+![Screenshot from 2024-03-24 14-17-16](https://github.com/DHARINIPV/OS-Linux-commands-Shell-script/assets/119400845/a12ea18e-828c-4987-8d50-b68f670acbd1)
 
 # check if with file location
 cat>ifnested.sh 
